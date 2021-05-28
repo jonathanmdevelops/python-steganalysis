@@ -1,2 +1,2 @@
 # python-steganalysis
-Performs statistical steganalysis on a set of images, using the RQP algorithm.
+Python scripts to perform statistical steganalysis on a given set of images.
